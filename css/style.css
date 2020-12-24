@@ -1,0 +1,27 @@
+.img_profile {
+    background: #0a53be;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 40px;
+}
+
+.profile {
+
+    background-image: url("../img/person.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 100px;
+
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    line-height: 50px;
+}
